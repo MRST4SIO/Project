@@ -8,7 +8,7 @@
 
 <body>
 
-<h1>Twoje imie to: <?php echo $name?></h1>
+<h1>Twoje imie to: <?php echo $name;?></h1>
 
 
 
